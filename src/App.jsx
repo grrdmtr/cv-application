@@ -8,10 +8,10 @@ import ExperienceEdit from './components/ExperienceEdit'
 import './App.css'
 
 const initialPerson = [
-  {name: 'Dima', id: 0},
-  {email: 'dumitrugraur@gmail.com', id: 1},
-  {phone: '0742180160', id: 2},
-  {schoolName: 'Prometeu', id: 3},
+  {name: 'Pikachu', id: 0},
+  {email: 'pikachu@academy.com', id: 1},
+  {phone: '00000000', id: 2},
+  {schoolName: 'Pokemon Academy', id: 3},
   {titleOfStudy: 'High School', id: 4},
   {dateOfStudy: '2013', id:5},
   {companyOne: 'Google Corp.', position: 'intern', id: 6},
